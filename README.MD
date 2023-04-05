@@ -42,6 +42,9 @@ Notation :
 | Appel d'offre                 |   1,5 |
 
 # Annexe
+![image](https://user-images.githubusercontent.com/73029436/230016346-bd61a5ac-d81c-4706-a419-96bfc971c700.png)
+
+![image](https://user-images.githubusercontent.com/73029436/230016300-c5479e69-f36a-43cb-9556-a6816dad7ac6.png)
 
 ---
 ## Arborescence du projet
